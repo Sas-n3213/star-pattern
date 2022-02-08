@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PrimeNumberCheck {
+public class Palindrome Number Check {
 	
 	public static void main(String[] args) {
 		
